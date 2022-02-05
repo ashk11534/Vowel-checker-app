@@ -1,0 +1,6 @@
+.hidden {
+  display: none;
+}
+.break {
+  word-wrap: break-word;
+}
